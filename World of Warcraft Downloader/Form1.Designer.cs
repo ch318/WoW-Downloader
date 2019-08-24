@@ -124,7 +124,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(254, 41);
             this.button6.TabIndex = 7;
-            this.button6.Text = "Warlords of Draenor (6.2.3)";
+            this.button6.Text = "Warlords of Draenor (6.2.4a)";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
