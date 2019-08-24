@@ -28,3 +28,13 @@ C:\Users\alex\Desktop\WoW-Downloader\World of Warcraft Downloader\obj\Debug\Worl
 C:\Users\alex\Desktop\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World_of_Warcraft_Downloader.Form1.resources
 C:\Users\alex\Desktop\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World_of_Warcraft_Downloader.Properties.Resources.resources
 C:\Users\alex\Desktop\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.csproj.GenerateResource.Cache
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\bin\Debug\World of Warcraft Downloader.exe.config
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\bin\Debug\World of Warcraft Downloader.exe
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\bin\Debug\World of Warcraft Downloader.pdb
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.csprojAssemblyReference.cache
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World_of_Warcraft_Downloader.Form1.resources
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World_of_Warcraft_Downloader.Properties.Resources.resources
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.csproj.GenerateResource.cache
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.csproj.CoreCompileInputs.cache
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.exe
+C:\Users\artis\Downloads\WoW-Downloader\World of Warcraft Downloader\obj\Debug\World of Warcraft Downloader.pdb
