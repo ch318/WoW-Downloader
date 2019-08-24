@@ -160,7 +160,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(254, 41);
             this.button7.TabIndex = 10;
-            this.button7.Text = "Legion (7.0.3)";
+            this.button7.Text = "Legion (7.1.5)";
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
